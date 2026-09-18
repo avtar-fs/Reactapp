@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/avtar-fs/Reactapp/static/css/main.1cdbf67e.css",
-    "main.js": "/avtar-fs/Reactapp/static/js/main.3dd2fb6a.js",
-    "static/js/453.a87527cc.chunk.js": "/avtar-fs/Reactapp/static/js/453.a87527cc.chunk.js",
-    "index.html": "/avtar-fs/Reactapp/index.html",
-    "main.1cdbf67e.css.map": "/avtar-fs/Reactapp/static/css/main.1cdbf67e.css.map",
-    "main.3dd2fb6a.js.map": "/avtar-fs/Reactapp/static/js/main.3dd2fb6a.js.map",
-    "453.a87527cc.chunk.js.map": "/avtar-fs/Reactapp/static/js/453.a87527cc.chunk.js.map"
+    "main.css": "/Reactapp/static/css/main.1cdbf67e.css",
+    "main.js": "/Reactapp/static/js/main.30e8ba44.js",
+    "static/js/453.a87527cc.chunk.js": "/Reactapp/static/js/453.a87527cc.chunk.js",
+    "index.html": "/Reactapp/index.html",
+    "main.1cdbf67e.css.map": "/Reactapp/static/css/main.1cdbf67e.css.map",
+    "main.30e8ba44.js.map": "/Reactapp/static/js/main.30e8ba44.js.map",
+    "453.a87527cc.chunk.js.map": "/Reactapp/static/js/453.a87527cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cdbf67e.css",
-    "static/js/main.3dd2fb6a.js"
+    "static/js/main.30e8ba44.js"
   ]
 }
